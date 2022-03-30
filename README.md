@@ -1,1 +1,1 @@
-Main project directory
+Root repository for shell basics
