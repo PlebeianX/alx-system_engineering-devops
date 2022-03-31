@@ -1,1 +1,1 @@
-Root repository for shell basics
+Development operations
